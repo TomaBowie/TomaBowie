@@ -2,10 +2,10 @@
 
 ## Software Engineer & AI Evaluation Specialist
 
-A highly analytical Software Engineering student at MIT and AI Evaluation Specialist with hands-on experience building secure backend architectures, database optimizations, and hardware-software integrations[cite: 6]. Specializes in model output auditing, SWE-bench task authoring, and executing robust testing methodologies to bridge the gap between deterministic systems and frontier generative AI.
+A highly analytical Software Engineering student at MIT and AI Evaluation Specialist with hands-on experience building secure backend architectures, database optimizations, and hardware-software integrations. Specializes in model output auditing, SWE-bench task authoring, and executing robust testing methodologies to bridge the gap between deterministic systems and frontier generative AI.
 
 
-* ✉️ You can contact me via [tomayabowie@gmail.com](mailto:tomayabowie@gmail.com)[cite: 6]
+* ✉️ You can contact me via [tomayabowie@gmail.com](mailto:tomayabowie@gmail.com)
 * 📞 Phone: +1 504 396 9858
 * ⚙️ **Core Focus:** Structural code quality, systems architecture, and automated validation frameworks.
 
